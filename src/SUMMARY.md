@@ -1,0 +1,51 @@
+# Summary
+
+- [Python General](p1-python-general)
+    - [General Structure](01-general-structure.md)
+    - [Python Classes](02-python-classes.md)
+    - [Python General Examples](03-python-examples.md)
+- [Python Statistics](p2-python-statistics.md)
+    - [Reading CSV Files]
+    - [Pandas and Matplotlib]
+    - [Numpy and Matplotlib]
+    - [Pandas and Numpy]
+    - [Chisquare]
+    - [Linear Regression]
+    - [Python for R Users]
+- [Python Sysadmin](p3-python-sysadmin.md)
+    - [Shell Commands]
+    - [Other Examples]
+- [Python Curses](p4-python-curses.md)
+    - [Python Curses Examples]
+- [R Statistics](p5-r-statistics.md)
+    - [Introduction to R]
+    - [Chisquare]
+    - [Anova]
+    - [Intraclass Correlation]
+    - [Linear Regression]
+    - [Logistic Regression]
+    - [Multiple Regression]
+    - [Plotting in R]
+- [Awk General](p6-awk-general.md)
+    - [Awk Examples]
+- [Perl General](p7-perl-general.md)
+    - [Perl Variables]
+    - [Perl Numbers]
+    - [Perl Strings]
+    - [Perl Operators]
+    - [Perl Lists]
+    - [Perl Arrays]
+    - [Perl Conditionals]
+    - [Perl Examples]
+- [Golang General](p8-golang-general.md)
+    - [Golang General Examples]
+- [Fortan 90](p9-fortran90.md)
+    - [Fortran90 General Examples]
+- [JavaScript general](p10-javascript-general.md)
+    - [JavaScript Variables]
+    - [JavaScript Operators]
+    - [JavaScript Objects and Arrays]
+    - [JavaScript Control Structures]
+    - [JavaScript Functions]
+    - [JavaScript Regular Expressions]
+    - [JavaScript DOM]
